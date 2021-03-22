@@ -21,7 +21,9 @@ UPDATE EMPLOYEE
 READ LIST OF EMPLOYEES
 Rest api was created to manage this in the shared folder
 
-Thank you for your time XXX^
+Thank you for your time 
+
+![Employee Management](/EmoloyeeManagement.png, "Employee management")
 
 # EmployeeManagement
 

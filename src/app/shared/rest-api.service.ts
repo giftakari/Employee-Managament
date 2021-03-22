@@ -12,7 +12,7 @@ export class RestApiService {
   
   // Define API
   // localhost:3000 as alternative. See READ.me for details
-  apiURL ='https://60456662c0194f00170bcc03.mockapi.io/abcis/'
+  apiURL ='http://localhost:3000'
 
   constructor(private http: HttpClient) { }
 
