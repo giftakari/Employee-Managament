@@ -24,7 +24,8 @@ Rest api was created to manage this in the shared folder
 Thank you for your time 
 
 
-![EmplooyeeManagment2](https://user-images.githubusercontent.com/37270379/112051382-99b78680-8b9d-11eb-98bb-24b480a23514.png)
+![EmployeeManagement3](https://user-images.githubusercontent.com/37270379/112063599-667cf380-8bad-11eb-9ad6-dfc8c627ccfe.png)
+
 
 # EmployeeManagement
 
