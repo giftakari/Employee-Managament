@@ -29,6 +29,12 @@ Thank you for your time
 
 # EmployeeManagement
 
+## Video demo of the project 
+
+
+![EmployeeManagement4](https://user-images.githubusercontent.com/37270379/120446449-e94fd500-c3cc-11eb-9755-ce2dc6c081e0.mp4)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
 ## Development server
