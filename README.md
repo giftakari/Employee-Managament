@@ -31,8 +31,10 @@ Thank you for your time
 
 ## Video demo of the project 
 
+<video width="420" height="440" controls>
+  <source src="https://user-images.githubusercontent.com/37270379/120446449-e94fd500-c3cc-11eb-9755-ce2dc6c081e0.mp4" type="video/mp4">
+</video>
 
-![EmployeeManagement3](https://user-images.githubusercontent.com/37270379/120446449-e94fd500-c3cc-11eb-9755-ce2dc6c081e0.mp4)
 
 ![EmployeeManagement3](https://user-images.githubusercontent.com/37270379/120446449-e94fd500-c3cc-11eb-9755-ce2dc6c081e0.mp4)
 
