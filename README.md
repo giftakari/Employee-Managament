@@ -12,15 +12,15 @@ Considering the time frame for this project , Bootstrap is the best.
 # Components and routes
 
 CRUD entails 
-1.Create 
-2.Read 
-3.Update 
-4.Delete
+1. Create 
+2. Read 
+3. Update 
+4. Delete
 
 I created 3 components:
-1.Employee-create [Creates an employee]
-2.Employee-edit. [edits an empployee]
-3.Employee-list  [Display list of employees]
+- Employee-create [Creates an employee]
+- Employee-edit. [edits an empployee]
+- Employee-list  [Display list of employees]
 
 components as the delete does not need a component and all components have routes 
 
@@ -30,10 +30,11 @@ shared class,for the expected data and then
 used Observables. 
 
 ### Functionalities 
-CREATE EMPLOYEE
-DELETE EMPLOYEE
-UPDATE EMPLOYEE
-READ LIST OF EMPLOYEES
+
+- CREATE EMPLOYEE
+- DELETE EMPLOYEE
+- UPDATE EMPLOYEE
+- READ LIST OF EMPLOYEES
 
 Rest api was created to manage this in the shared folder
 
